@@ -1,10 +1,19 @@
 import './App.css';
+import Header from './Header'
+import Nav from './Nav'
+import Footer from './Footer'
 
 function App() {
   return (
-    <div className="App">
-    <div>homepage</div>
-    </div>
+    //< className="App">
+    <>
+      <Header/>
+      <Nav/>
+      <Footer/>
+
+    </>
+    
+    
   );
 }
 
