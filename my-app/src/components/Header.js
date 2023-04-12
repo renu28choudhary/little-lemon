@@ -8,10 +8,9 @@ const Header = () => {
     <header>
       <div className="left-side">
         <h1>Little Lemon</h1>
-        <h2>Washington DC</h2>
+        <h2>Chicago</h2>
         <p>
-          We are a family owned Mediterranean restaurant, focused on traditional
-          recipes served with a modern twist.
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
         </p>
         <button>
           <Link to="/booking">Reserve a table</Link>
